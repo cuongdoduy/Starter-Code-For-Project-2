@@ -9,13 +9,8 @@ In this project you will be writing a program that reads from the "constants" da
 
 1. Create a new empty script file called `app.py` or `application.py`
 
-2. Inside this new file, you will want a Dunder Main statement:
-   
-
-3. Any print statements or function calls you will want to be inside Dunder Main or inside a main function call which is nested inside Dunder Main.
+2. Any print statements or function calls you will want to be inside Dunder Main or inside a main function call which is nested inside Dunder Main.
    If you need a refresh, check out the supplied Project 1 files/workspace for an example.
    
-
-
 If you get stuck, try to work through the problem. Sometimes it helps to try to write/draw out your steps on paper in the order your program should run in and solve each step 1 at a time. If you are still stuck be sure to reach out in the Slack channel.
 
